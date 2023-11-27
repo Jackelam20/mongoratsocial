@@ -1,41 +1,26 @@
-# mongoratsocial
+# Mogoratsocial
 
 ## Description
-This is a social media application that allows users to share their thoughts, react to friends' thoughts, and create a friend list.
+This is a social media application that allows users to share their thoughts, react to friends' thoughts, and create a friend list. This application uses Express.js for routing, a MongoDB database, and the Mongoose ODM. The application is deployed on Heroku and uses MongoDB Atlas for the database.
 
 ## Table of Contents
 * [Installation](#installation)
-
 * [Usage](#usage)
-
-* [Contributing](#contributing)
-
-* [Tests](#tests)
-
+* [License](#license)
 * [Questions](#questions)
 
 ## Installation
-To install necessary dependencies, run the following command:
-```
-npm i
-```
-
+To install the application, run npm install from the root directory to install the dependencies. The application can then be started with npm start.
 ## Usage
-To use this application, run the following command:
-```
-npm start
-```
+To use the application, run npm start from the root directory. The application will then be running on http://localhost:3001. The API can be accessed from http://localhost:3001/api.
 
-## Contributing
-If you would like to contribute, please contact me.
+## License
+This project is licensed under the MIT License license.
 
-## Tests
-To run tests, run the following command:
-```
-npm test
-```
+http://choosealicense.com/licenses/mit/
+
+## credits
+This website was created with the help of: Nancey (nramirez686) https://github.com/nramirez686
 
 ## Questions
-If you have any questions about the repo, open an issue or contact me directly at
-[undefined](undefined). You can find more of my work at [undefined](
-    
+For questions about this project, please contact me via email at jackelam20@gmail.com or via GitHub at jackealam20.
